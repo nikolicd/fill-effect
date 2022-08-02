@@ -1,0 +1,16 @@
+{
+    "name": "dev.darkleap.filleffect",
+    "version": "0.0.1",
+    "displayName": "Fill Effect",
+    "description": "Fill Effect",
+    "unity": "2022.1",
+    "unityRelease": "7f",
+   "keywords": [
+      "Fill",
+      "Effect"
+    ],
+    "author": {
+      "name": "Darko Nikolic",
+      "email": "darko@darkleap.dev"
+    }
+  }
