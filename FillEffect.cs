@@ -17,7 +17,7 @@ public class FillEffect : MonoBehaviour
     [SerializeField]
     Material material;
     [SerializeField]
-    Color color = Color.white;
+    public Color color = Color.white;
     [SerializeField]
     float duration = 0.75f;
 
